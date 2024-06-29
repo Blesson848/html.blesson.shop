@@ -1,0 +1,1 @@
+This is a html website and website image is created using packer. This website infra is created with the help of terraform. 

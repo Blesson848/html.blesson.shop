@@ -1,0 +1,6 @@
+application_repository = "https://github.com/Blesson848/html.blesson.shop.git"
+project_name           = "html"
+project_env            = "development"
+ami                    = "ami-0e1d06225679bc1c5"
+instance_type          = "t2.micro"
+ssh_username           = "ec2-user"
